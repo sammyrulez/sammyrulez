@@ -14,15 +14,16 @@
 [<img align="left" alt="sammyrulez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[website]: https:/propens.io
-[personal_website]: https://samreghenzi.it
-[twitter]: https://twitter.com/sammyrulez
-[linkedin]: https://linkedin.com/r/sammyrulez
-
+<br />
 ---
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<img align="left" alt="Sammyrulez's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sammyrulez&show_icons=true&hide_border=true" />
+<img align="left" alt="Sammyrulez's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+[website]: https:/propens.io
+[personal_website]: https://samreghenzi.it
+[twitter]: https://twitter.com/sammyrulez
+[linkedin]: https://linkedin.com/r/sammyrulez

@@ -18,3 +18,9 @@
 [personal_website]: https://samreghenzi.it
 [twitter]: https://twitter.com/sammyrulez
 [linkedin]: https://linkedin.com/r/sammyrulez
+
+---
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->

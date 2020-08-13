@@ -21,7 +21,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<img align="left" alt="Sammyrulez's Github Stats" src="https://github-readme-stats.sammyrulez.vercel.app/api?username=sammyrulezCKr&show_icons=true&hide_border=true" />
+<img align="left" alt="Sammyrulez's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sammyrulezCKr&show_icons=true&hide_border=true" />
 
 [website]: https:/propens.io
 [personal_website]: https://samreghenzi.it

@@ -24,7 +24,7 @@
 
 <img align="left" alt="Sammyrulez's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sammyrulez&show_icons=true&hide_border=true" />
 
-[website]: https:/propens.io
+[website]: http://www.propens.io/
 [personal_website]: https://samreghenzi.it
 [twitter]: https://twitter.com/sammyrulez
 [linkedin]: https://linkedin.com/r/sammyrulez

@@ -1,7 +1,7 @@
 ### I'm Sam !
 
 
-## I'm a Husband, Father, Developer, and Matial artist!
+## I'm a Husband, Father, Developer, and Martial artist!
 - 🔭 I’m currently working on a [NLP platform][website]!
 - 🌱 I’m currently learning Spark NLP
 - 👯 I’m looking to collaborate on interesting NLP Projects

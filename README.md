@@ -42,8 +42,6 @@
 - [Forecasting Time Series from a COVID-19 Red Zone](https://medium.com/analytics-vidhya/forecasting-time-series-from-a-covid-19-red-zone-f66dad32b266?source=rss-7ef86d355d26------2)
 <!-- BLOG-POST-LIST:END -->
 
-<img align="left" alt="Sammyrulez's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sammyrulez&show_icons=true&hide_border=true" />
-
 [website]: http://www.propens.io/
 [personal_website]: https://samreghenzi.it
 [twitter]: https://twitter.com/sammyrulez

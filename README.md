@@ -2,8 +2,8 @@
 
 
 ## I'm a Husband, Father, Developer,Runner and Martial artist!
-- 🔭 I’m currently working on a [NLP platform][website]!
-- 👯 I’m looking to collaborate on interesting NLP Projects
+- 💬 Interested Machine Learning and NLP 
+- 🦀  Looking into Rust lang and Functional Python 🐍
 - ⚡ Fun fact: I'm a morning person!
 
 ### Connect with me:
@@ -42,7 +42,7 @@
 - [Forecasting Time Series from a COVID-19 Red Zone](https://medium.com/analytics-vidhya/forecasting-time-series-from-a-covid-19-red-zone-f66dad32b266?source=rss-7ef86d355d26------2)
 <!-- BLOG-POST-LIST:END -->
 
-[website]: http://www.propens.io/
+
 [personal_website]: https://samreghenzi.it
 [twitter]: https://twitter.com/sammyrulez
 [linkedin]: https://linkedin.com/r/sammyrulez

@@ -3,7 +3,7 @@
 
 ## I'm a Husband, Father, Developer,Runner and Martial artist!
 - 💬 Interested Machine Learning and NLP 
-- 🦀  Looking into Rust lang and Functional Python 🐍
+- 🦀  Looking Functional Python 🐍 and LLMs
 - ⚡ Fun fact: I'm a morning person!
 
 ### Connect with me:
